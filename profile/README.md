@@ -12,4 +12,4 @@ We are looking for passionate individuals to help us scale the organization. If 
 - **Communicators & Tech Writers:** To document our architecture and share our progress.
 - **Community Leads:** To help onboard new contributors and manage outreach.
 
-Interested in shaping the future of Fluxo? Read our [Contributing Guidelines]([CONTRIBUTING.md](https://github.com/Fluxo-Labs/.github/blob/main/CONTRIBUTING.md)) or start a thread in our **Discussions** tab!
+Interested in shaping the future of Fluxo? Read our [Contributing Guidelines][CONTRIBUTING.md](https://github.com/Fluxo-Labs/.github/blob/main/CONTRIBUTING.md) or start a thread in our **Discussions** tab!
